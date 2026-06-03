@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "securechatupdated",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "Secure Chat Updated",
   "description": "AES-256 w/ Base4096 chat encryption for Minecraft 26.1",
   "authors": ["feshyfesh"],
